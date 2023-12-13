@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "162785171389",
+    "project_id": "onlinevoting-81b5b",
+    "storage_bucket": "onlinevoting-81b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162785171389:android:9f33393d40bd2bb05ba4d4",
+        "android_client_info": {
+          "package_name": "com.onlie.voting.onlinevotingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162785171389-dv7jdient9c4rn5nlu4usm74bftpmh8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlie.voting.onlinevotingsystem",
+            "certificate_hash": "8b983f4a73e4b57a4a023275a2fb47f903646823"
+          }
+        },
+        {
+          "client_id": "162785171389-sij0ck34565hg8cntlpg4o339mflhh0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaqzfKXSekfURWyv7jpKzL8FfX-YKJ6n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162785171389-sij0ck34565hg8cntlpg4o339mflhh0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
